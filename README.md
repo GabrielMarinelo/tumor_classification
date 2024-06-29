@@ -1,1 +1,1 @@
-This project consist in a neural net that was trained to identify cerebral`s tumor
+This project consists of a neural network that was trained to identify brain tumors
